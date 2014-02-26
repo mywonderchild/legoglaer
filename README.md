@@ -1,7 +1,4 @@
 legoglaer
 =========
 
-TESTOGLEGVIBLIVERKLOGE
-uaoehga
-MARKTES
-Bjørn har skrevet noget her.
+Hard merge incomming. Conflicts will happen.
