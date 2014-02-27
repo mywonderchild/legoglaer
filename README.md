@@ -1,7 +1,8 @@
 legoglaer
 =========
 
-TESTOGLEGVIBLIVERKLOGE
-testetst1020
-uaoehga
-MARKTES
+Hard merge incomming. Conflicts will happen.
+
+Added something. Would like to use a tool for merging this time.
+trolo
+lo
